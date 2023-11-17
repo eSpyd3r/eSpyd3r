@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I am a student at McGill University and this is where you can find some of my projects!
 
 <!--
 **eSpyd3r/eSpyd3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
